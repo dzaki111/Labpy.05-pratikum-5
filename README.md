@@ -168,6 +168,10 @@ while True:
     else:
         print("\nPilihan tidak valid!")
 ```
+
+## screenshout VSC
+![code](https://github.com/user-attachments/assets/1d59a3ee-0e69-4dc2-a070-c4effd3af0fe)
+
 ## Cara Menggunakan Program
 
 1. Simpan kode dalam file Python, misalnya `program_mahasiswa.py`.
@@ -191,4 +195,7 @@ Daftar Nilai
 ======================================================================
 ```
 
-Program ini membantu mengelola data siswa dengan mudah dan fleksibel menggunakan antarmuka berbasis teks.
+## flowchart nya
+
+![Screenshot 2024-11-19 003350](https://github.com/user-attachments/assets/eb9c489d-f255-4f0b-8130-d702454d3870)
+
