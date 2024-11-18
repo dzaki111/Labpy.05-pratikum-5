@@ -189,5 +189,6 @@ Daftar Nilai
 
 ## flowchart nya
 
-![Screenshot 2024-11-19 003350](https://github.com/user-attachments/assets/eb9c489d-f255-4f0b-8130-d702454d3870)
+![image](https://github.com/user-attachments/assets/d8d14251-0338-4660-aadc-dfa40c2c0f24)
+
 
