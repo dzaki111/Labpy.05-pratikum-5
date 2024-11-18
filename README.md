@@ -172,16 +172,9 @@ while True:
 ## screenshout VSC
 ![code](https://github.com/user-attachments/assets/1d59a3ee-0e69-4dc2-a070-c4effd3af0fe)
 
-## Cara Menggunakan Program
 
-1. Simpan kode dalam file Python, misalnya `program_mahasiswa.py`.
-2. Jalankan program di terminal/command prompt dengan perintah:
-   ```bash
-   python program_mahasiswa.py
-   ```
-3. Pilih menu yang diinginkan sesuai instruksi.
 
-## Contoh Tabel Data
+## Contoh output
 Berikut adalah contoh tampilan tabel data:
 
 ```
