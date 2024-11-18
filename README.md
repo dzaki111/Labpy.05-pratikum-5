@@ -1,16 +1,12 @@
-
+# Labpy.05/Pratikum05
+# NAMA  = DZAKI ARIF RAHMAN
+# NIM   = 312410312
+# KELAS = TI.24.A4
 
 
 # Program Pengelolaan Data Mahasiswa
 
-Program ini dirancang untuk mengelola data mahasiswa secara efisien. Fitur-fitur yang disediakan meliputi:
-
-- **Melihat Data Mahasiswa**: Menampilkan data seluruh mahasiswa dalam format tabel.
-- **Menambahkan Data Baru**: Memasukkan data mahasiswa baru, termasuk Nama, NIM, Nilai Tugas, UTS, dan UAS.
-- **Mengubah Data**: Memperbarui informasi siswa berdasarkan nomor urut data.
-- **Menghapus Data**: Menghapus data pelajar tertentu dari daftar.
-- **Mencari Data**: Mencari mahasiswa berdasarkan Nama atau NIM.
-- **Keluar dari Program**: Menyelesaikan program.
+# penjelasan programm
 
 ## Perhitungan Nilai Akhir
 Nilai akhir pelajar dihitung berdasarkan bobot sebagai berikut:
